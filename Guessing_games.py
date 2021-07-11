@@ -28,7 +28,6 @@ if __name__=='__main__':
 		for i in range(3):
 			try:
 				guess=input(f'Guess a number from {sys.argv[1]} to {sys.argv[2]}: ')
-				print(ans)
 				if (guessing(guess, ans))==True:
 					break
 			except ValueError as err:
