@@ -1,1 +1,1 @@
-Gussing_games.py: Fun Little game- You can choose a range of number and play. You will have 3 chances to guess a number within your chosen range. If you can guess the right number within 3 chances, you win, otherwise you lose.
+Gussing_games.py: Fun Little game- First, you choose a range of number, such as [0-10], [1-100] etc. You then ask your computer to take a random number within that range. After that, you will have 3 chances to guess the random number that your computer picked. If you can guess correctly within 3 chances, you win, otherwise you lose.
